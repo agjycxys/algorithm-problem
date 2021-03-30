@@ -1,5 +1,6 @@
-# algorithm-problem
-算法题记录
+# algorithm-problem（Java）
+#### LeetCode算法题解
 
-LeetCode算法题解
-  第74题：利用stream特性进行求解：algotithmNotes/src/main/java/leetcode/LC74.java
+######   [第74题](https://github.com/agjycxys/algorithm-problem/blob/main/algotithmNotes/src/main/java/leetcode/LC74.java)   利用stream特性求解
+
+​		
